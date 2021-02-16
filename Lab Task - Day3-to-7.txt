@@ -1,0 +1,43 @@
+Lab Tasks – Day3
+1) ba1f
+2) ba1e
+3) ba2b
+4) ba2c
+5) ba2d
+
+Lab Tasks - Day4
+1) ba2f
+2) ba2g
+3) ba3a
+4) ba3b
+5) ba3c
+6) ba3d
+7) ba3e
+
+Lab Tasks - Day5
+1) ba4a
+2) ba4b
+3) ba4c
+4) ba4d
+5) ba3f
+6) ba3h
+7) ba3k
+
+Lab Tasks - Day6
+1) ba4f
+2) ba4h
+3) ba4g
+4) ba4i
+5) ba9g
+6) ba9a
+7) ba9b
+
+Lab Tasks - Day7
+1) ba9i
+2) ba9j
+3) ba9k
+4) ba9n
+5) ba9o
+6) ba9h
+
+Assignment - 1 includes all the Rosalind problems of chapter 1, 2 and 3. 

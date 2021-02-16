@@ -1,0 +1,6 @@
+Lab Tasks – Day1
+1) Count the number of occurrences of a pattern from text
+2) Find most frequent pattern of a particular length from text
+3) Count the number of occurrences of the different patterns of particular length from a text
+4) Multiplication of two matrix
+5) Generate all possible pattern of length 3 of characters (a-z)
