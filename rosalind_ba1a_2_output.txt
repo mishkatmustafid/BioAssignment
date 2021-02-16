@@ -1,0 +1,17 @@
+x = input()
+y = input()
+
+# print(x.count(y))
+
+i = 0
+pos = 0
+count = 0
+
+while i < len(x):
+    pos = x.find(y,i)
+    if pos == -1:
+        break
+    count+=1
+    i = pos + 1
+
+print(count)
